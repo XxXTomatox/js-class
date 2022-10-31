@@ -1,0 +1,12 @@
+un lenguaje de computacion es hablar con la coputadora y que esta pueda itrepetarlo 
+js es un lengua con un estandar enmascript 
+de donde se upede ejecutar 
+del lado del cliente (navegador)
+del lado del servidor con node 
+instalar js en mi pc 
+
+un consol.log -> es una funcion 
+cualquier cosa que lleva un punto es una propiedad 
+var es gloval siempre y cuendo este erriba 
+let solo sirve en don de vive ademas puede aver mas de una barieble con el mismo nombre siempre y cuando no vivan en el mismo logar 
+const -> no cambie de valor 
